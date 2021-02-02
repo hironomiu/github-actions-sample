@@ -1,4 +1,4 @@
-# test
+# github-action-sample
 
 ![learn-github-actions](https://github.com/hironomiu/test/workflows/learn-github-actions/badge.svg?branch=main)
 
